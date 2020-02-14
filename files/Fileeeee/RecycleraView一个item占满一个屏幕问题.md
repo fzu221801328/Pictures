@@ -16,7 +16,7 @@
 
 Recyclerview中显示的**item的布局**如下
 
-```kotlin
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
